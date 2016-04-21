@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/libs/baidumapapi_v3_5_0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ba79500bb64218f10b5fd0d5ea54503b2bf6b3bb">
+        <dex dex="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/pre-dexed/debug/baidumapapi_v3_5_0-266b77683df81ca80962068bb42d27cb2a065665.jar" />
+    </item>
+    <item
+        jar="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/libs/com.umeng.message.lib.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="677c0952a131b25534391ee916f180de4fde8371">
+        <dex dex="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/pre-dexed/debug/com.umeng.message.lib-f297804be0b21cb5bdf46ff4051119406fa58704.jar" />
+    </item>
+    <item
+        jar="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/exploded-aar/android_benben/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="77be244f83a9c539d425b6ab134b05b3fe70a275">
+        <dex dex="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/pre-dexed/debug/classes-c6be747f70aa2ecd64558a7664249b7c49380adf.jar" />
+    </item>
+    <item
+        jar="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/exploded-aar/android_benben/core/unspecified/jars/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9b6a9a9078af571732159b904ad423b03b7cc786">
+        <dex dex="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/pre-dexed/debug/android-support-v4-68067659b5e1ffa895cf275d531b36ca84f323ba.jar" />
+    </item>
+    <item
+        jar="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/libs/xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/pre-dexed/debug/xUtils-2.6.14-9c50d3bf015a346d68900373c1d7cb3016b6d076.jar" />
+    </item>
+    <item
+        jar="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/libs/barcode_core.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/pre-dexed/debug/barcode_core-c34975016236239570946a9fe2321e576ab2f871.jar" />
+    </item>
+    <item
+        jar="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/libs/easemobchat_2.1.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d20c46d99a73ddffda29066ddfa32b6bcd57942d">
+        <dex dex="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/pre-dexed/debug/easemobchat_2.1.8-c59e345bcb8544a804a36d20e60ac28f279750a6.jar" />
+    </item>
+    <item
+        jar="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/libs/locSDK_5.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ef5a34dcc2783dfe0fb7a7b47745d14d36b4f523">
+        <dex dex="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/pre-dexed/debug/locSDK_5.3-a37c15b4fad93245ef7b62ccfc6a7140725f4315.jar" />
+    </item>
+    <item
+        jar="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/libs/pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/pre-dexed/debug/pinyin4j-2.5.0-721ab6641dc9dc5ef3139fbe71f0531260bf7c39.jar" />
+    </item>
+    <item
+        jar="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/exploded-aar/android_benben/core/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="735ed208834c98df6b8a9f608153a2f2b0ef92b0">
+        <dex dex="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/pre-dexed/debug/classes-2b215755effd874f10982828ae87be61ff73f32a.jar" />
+    </item>
+    <item
+        jar="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/exploded-aar/android_benben/Cropper/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="76029cdfcb4ed6ed3d9c0601e82a3899d49cff41">
+        <dex dex="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/pre-dexed/debug/classes-8fd5b878eb37a59d3415b8374c36393b8ad94a93.jar" />
+    </item>
+    <item
+        jar="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/exploded-aar/android_benben/core/unspecified/jars/libs/clog-1.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b857e5d62a7243e74fd0307639fff5a54f8f030">
+        <dex dex="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/pre-dexed/debug/clog-1.0.2-2e7e833e8e5ad2f6e89e192902dacd00d5d3ee26.jar" />
+    </item>
+    <item
+        jar="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/libs/umeng-analytics-v5.5.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5d503ec571e2e98d972209afa203f94d11882c15">
+        <dex dex="/Users/yexiangyu/Code/自己的项目/android_benben/BenBen/build/intermediates/pre-dexed/debug/umeng-analytics-v5.5.3-a31f4fc3f8e2aa778de79929f4ee83a291daa179.jar" />
+    </item>
+
+</items>
